@@ -1,7 +1,7 @@
 {
     "name": "enderitelauncher",
     "preductname": "Enderite launcher",
-    "version": "1.0.2",
+    "version": "1.0.1",
     "description": "Enderite launcher",
     "main": "src/app.js",
     "author": "test",
@@ -28,5 +28,9 @@
         "electron": "^19.0.7",
         "electron-builder": "^23.0.3",
         "nodemon": "^2.0.16"
-    }
+    },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo74598563/launcher1"
+}
 }
